@@ -2,6 +2,7 @@
 A Flask-based REST API for managing music festivals, artists, stages, and performances.
 
 ## Project Structure
+
 festival-api/
 ├── app/
 │ ├── init.py # App initialization and configuration
