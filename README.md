@@ -1,4 +1,4 @@
-# Music Festival API
+# Music Festival API - stu2401262047
 A Flask-based REST API for managing music festivals, artists, stages, and performances.
 
 ## Project Structure
