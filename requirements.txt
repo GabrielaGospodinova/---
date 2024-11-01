@@ -1,0 +1,2 @@
+flask # For all requests
+flasgger  # for API documentation
